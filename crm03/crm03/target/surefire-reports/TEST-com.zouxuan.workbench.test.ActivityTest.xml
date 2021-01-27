@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.zouxuan.workbench.test.ActivityTest" time="1.507" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="14+36-1461"/>
+    <property name="sun.boot.library.path" value="C:\App Dowload\jdk-14_windows-x64_bin\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Administrator\Desktop\JavaProject\JavaWeb项目实战-企业级CRM项目-CRM客户管理系统\crm03\crm03"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Administrator\Desktop\JavaProject\JavaWeb项目实战-企业级CRM项目-CRM客户管理系统\crm03\crm03"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="14+36-1461"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\App Dowload\Idea\IntelliJ IDEA 2019.3.3\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="D:\java\maven\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\App Dowload\jdk-14_windows-x64_bin\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\App Dowload\xftp\;C:\App Dowload\Xhell6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\App Dowload\jdk-14_windows-x64_bin\bin\bin;C:\App Dowload\jdk-14_windows-x64_bin\bin\jre\bin;C:\Program Files (x86)\MySQL\MySQL Server 5.5\bin;C:\App Dowload\jdk-14_windows-x64_bin\bin;C:\App Dowload\Tomcat9\bin;C:\App Dowload\Tomcat9\lib;D:\java\git\Git\cmd;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;C:\App Dowload\Idea\IntelliJ IDEA 2019.3.3\bin;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="58.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="idea.version2019.3.3" value="true"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Administrator"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="14"/>
+    <property name="user.name" value="Administrator"/>
+    <property name="java.class.path" value="D:\java\maven\apache-maven-3.3.9-bin\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="14"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version2019.3.3 -s D:\java\maven\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml package"/>
+    <property name="java.home" value="C:\App Dowload\jdk-14_windows-x64_bin"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="14"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\java\maven\apache-maven-3.3.9-bin\apache-maven-3.3.9"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2020-03-17"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.zouxuan.workbench.test.ActivityTest" name="testSave" time="1.507"/>
+</testsuite>
